@@ -10,6 +10,7 @@ const navLinks = [
   { href: "/calculator", label: "Calculator" },
   { href: "/dashboard", label: "Dashboard" },
   { href: "/pricing", label: "Pricing" },
+  { href: "/docs", label: "Docs" },
 ];
 
 export function Navbar() {
